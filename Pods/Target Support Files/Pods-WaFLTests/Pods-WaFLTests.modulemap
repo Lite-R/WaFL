@@ -1,0 +1,6 @@
+framework module Pods_WaFLTests {
+  umbrella header "Pods-WaFLTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
