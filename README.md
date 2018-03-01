@@ -1,5 +1,7 @@
 # WaFL
-First Application in the World of iOS - Just a concept with some UI Elements from the web. Nothing serious.
+iOS Application parsing HTML Metadata to provide Mensa Menus operated by Studierendenwerk Hamburg
+
+Disclaimer: UI Elements have been taken from the web and no ownership is claimed for the same.
 
 v0.2 is designed purely for iPhone 5s running iOS 8.0 or later
  
